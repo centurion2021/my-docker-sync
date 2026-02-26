@@ -1,1 +1,1 @@
-FROM wangshengjj/fun-asr-nano-2512:latest
+FROM haseebkn/cosyvoice3-runpod:latest
